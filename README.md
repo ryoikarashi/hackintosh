@@ -16,3 +16,7 @@
 | Accessories| Thermal Grizzly Kryonaut 1g |
 | Accessories | Apple Magic Trackpad 2 MJ2R2J/A |
 | Wifi/BT Module | Dell DW1560 Broadcom BCM94352Z M.2/NGFF 802.11AC 867Mbps Bluetooth 4.0 WIFI Card |
+
+![build](https://user-images.githubusercontent.com/5750408/52848185-6e0d7b00-3151-11e9-806f-745f9cbd58cd.jpg)
+
+![screen shot 2019-02-15 at 18 40 14](https://user-images.githubusercontent.com/5750408/52848157-60f08c00-3151-11e9-9b73-99fcea45b87b.png)
