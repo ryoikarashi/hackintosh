@@ -15,4 +15,4 @@
 | Monitor | Dell 27inc P2717H |
 | Accessories| Thermal Grizzly Kryonaut 1g |
 | Accessories | Apple Magic Trackpad 2 MJ2R2J/A |
-| Wifi/BT Module】Dell DW1560 Broadcom BCM94352Z M.2/NGFF 802.11AC 867Mbps Bluetooth 4.0 WIFI Card |
+| Wifi/BT Module | Dell DW1560 Broadcom BCM94352Z M.2/NGFF 802.11AC 867Mbps Bluetooth 4.0 WIFI Card |
